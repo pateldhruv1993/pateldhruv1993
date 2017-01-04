@@ -4,7 +4,7 @@ layout: post
 title: Basic IRC Bot
 date: 2017-01-03T10:51:47.000Z
 categories: irc bot java
-img: image-1.png
+img: irc-bot.png
 ---
 <h1>What is this?</h1>
 <p>
