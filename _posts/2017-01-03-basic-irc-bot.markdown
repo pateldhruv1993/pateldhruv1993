@@ -6,6 +6,8 @@ date: 2017-01-03T10:51:47.000Z
 categories: irc bot java
 img: irc-bot.png
 ---
+<a href="https://github.com/pateldhruv1993/IRC-Bot" class="btn btn-primary">GitHub Link</a>
+
 <h1>What is this?</h1>
 <p>
   This is a simple IRC bot that I made a year or so ago. It has some functionality that me and my friends on the IRC wanted. At some places the URLs that I use have been replaced with fake URLs to because of privacy reasons.
