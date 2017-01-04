@@ -4,7 +4,7 @@ layout: post
 title: Application Logger
 date: 2017-01-04T10:51:47.000Z
 categories: 'c# logger'
-img: application-logger.PNG
+img: application-logger.png
 ---
 <a href="https://github.com/pateldhruv1993/Application-Logger" class="btn btn-primary">GitHub Link</a>
 
