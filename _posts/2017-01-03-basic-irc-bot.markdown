@@ -3,8 +3,8 @@ published: true
 ---
 ---
 layout: post
-title:  "Basic IRC Bot"
-date:   2017-01-03 10:51:47 +0530
+title: "Basic IRC Bot"
+date: 2017-01-03 10:51:47 +0530
 categories: jekyll update
 img: image-1.png
 categories: [one, two]
