@@ -16,11 +16,11 @@ A C# Program that will log your application usage. It will log which application
 <li>GUI to show you exactly what it is logging
 <img width="100%" src="{{site.baseurl}}/images/application-logger-full.png">
 </li>
-
+<br>
  <li>You can toggle it on/off from the applications tray icon
  <img width="100%" src="{{site.baseurl}}/images/application-logger-tray.png">
  </li>
-
+<br>
 <li>Shows detailed information including time, location of the program you're running etc
  <img width="100%" src="{{site.baseurl}}/images/application-logger-logfile.png">
  </li>
