@@ -9,7 +9,7 @@ img: application-logger.png
 <a href="https://github.com/pateldhruv1993/Application-Logger" class="btn btn-primary">GitHub Link</a>
 
 <h1>What is this?</h1>
-A C# Program that will log your application usage. It will log which applications you were using, how long, which application was on foreground at a particular time etc. It DOES NOT log your keyboard or mouse. But it DOES detect if you're using your PC using your the last time you used your mouse/keyboard etc.
+A C# Program that will log your application usage. It will log which applications you were using, how long, which application was on foreground at a particular time etc. It DOES NOT log your keyboard or mouse. But it DOES detect if you're using your PC using your the last time you used your mouse, keyboard etc.
 
 <h1>Features:</h1>
 <ul>
