@@ -2,26 +2,18 @@
 published: true
 layout: post
 title: Game Blocks
-date: 2017-01-04T10:51:47.000Z
-categories: 'tidesdk javascript html css'
+date: {}
+categories: tidesdk javascript html css
 img: game-blocks.png
 ---
 <a href="https://github.com/pateldhruv1993/Application-Logger" class="btn btn-primary">GitHub Link</a>
 
 <h1>What is this?</h1>
-A C# Program that will log your application usage. It will log which applications you were using, how long, which application was on foreground at a particular time etc. It DOES NOT log your keyboard or mouse. But it DOES detect if you're using your PC using your the last time you used your mouse, keyboard etc.
+An desktop "widget" that displays all your games on desktop so you can easily search and start the game. You can use the app to search, favourite, re-order favourites and sort the games alphabetically or according to most recently played games.
 
-<h1>Features:</h1>
-<ul>
-<li>GUI to show you exactly what it is logging
-<img width="100%" src="{{site.baseurl}}/images/application-logger-full.png">
-</li>
-<br>
- <li>You can toggle it on/off from the applications tray icon
- <img width="100%" src="{{site.baseurl}}/images/application-logger-tray.png">
- </li>
-<br>
-<li>Shows detailed information including time, location of the program you're running etc
- <img width="100%" src="{{site.baseurl}}/images/application-logger-logfile.png">
- </li>
-</ul>
+I made this application to learn TideSDK as it was interesting to me how you can make good looking GUI desktop applications just using HTML, Javascript and CSS. The reason I've stopped working on this before finishing it is finding good documentation to do some advanced low level WindowsAPI stuff was really hard. I also found Electron and was amazed by how much more advanced it seemed compared to TideSDK but it was still in beta back then so I didn't really bother porting it over to Electron. 
+
+<h1>Images:</h1>
+<img width="100%" src="{{site.baseurl}}/images/game-blocks-1.png">
+<img width="100%" src="{{site.baseurl}}/images/game-blocks-2.png">
+ 
