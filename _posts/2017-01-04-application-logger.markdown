@@ -2,7 +2,6 @@
 published: true
 layout: post
 title: Application Logger
-date: 2017-01-04T10:51:47.000Z
 categories: 'c# logger'
 img: application-logger.png
 ---
