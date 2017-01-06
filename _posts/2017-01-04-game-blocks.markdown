@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Game Blocks
-date: {}
+date: 2017-01-01T10:51:47.000Z
 categories: tidesdk javascript html css
 img: game-blocks.png
 ---
