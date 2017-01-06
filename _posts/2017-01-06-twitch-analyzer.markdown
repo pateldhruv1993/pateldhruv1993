@@ -1,7 +1,6 @@
 ---
 published: true
 layout: post
-date: {}
 categories: node express ejs TwitchAPI
 img: twitch-analyzer.jpg
 title: Twitch Analyzer
