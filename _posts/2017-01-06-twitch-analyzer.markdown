@@ -4,6 +4,7 @@ layout: post
 date: 2017-01-06T10:51:47.000Z
 categories: node express ejs TwitchAPI
 img: twitch-analyzer.jpg
+title: Twitch Analyzer
 ---
 <a href="https://github.com/pateldhruv1993/twitch-analyzer" class="btn btn-primary">GitHub Link</a>
 
