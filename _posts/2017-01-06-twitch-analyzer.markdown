@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2017-01-06T10:51:47.000Z
+date: {}
 categories: node express ejs TwitchAPI
 img: twitch-analyzer.jpg
 title: Twitch Analyzer
@@ -18,9 +18,9 @@ Although I've implemented the most important things(especially backend features)
 <h1>Images:</h1>
 <ul>
 <li>Steam Viewers Chart
-<img width="100%" src="{{site.baseurl}}/images/application-logger-full.png">
+<img width="100%" src="{{site.baseurl}}/images/twitch-analyzer-viewer-chart.gif">
 </li>
 <li>Chat Count Messages Chart
-<img width="100%" src="{{site.baseurl}}/images/application-logger-full.png">
+<img width="100%" src="{{site.baseurl}}/images/twitch-analyzer-chat-chart.gif">
 </li>
 </ul>
