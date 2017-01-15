@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: Movie Store
 layout: post
 categories: 'c# asp windowsforms html'
 img: application-logger.png
