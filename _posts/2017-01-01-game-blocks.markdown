@@ -5,7 +5,7 @@ title: Game Blocks
 categories: tidesdk javascript html css
 img: game-blocks.png
 ---
-<a href="https://github.com/pateldhruv1993/GSelectTide-WIP" class="btn btn-primary">GitHub Link</a>
+<a target="_blank" href="https://github.com/pateldhruv1993/GSelectTide-WIP" class="btn btn-primary">GitHub Link</a>
 
 <h1>What is this?</h1>
 A desktop "widget" that displays all your games on a desktop so you can easily search and start the game. You can use the app to search, favorite, re-order favorites and sort the games alphabetically or according to most recently played games.
