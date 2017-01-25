@@ -5,7 +5,7 @@ categories: node express ejs TwitchAPI
 img: twitch-analyzer.jpg
 title: Twitch Analyzer
 ---
-<a href="https://github.com/pateldhruv1993/twitch-analyzer" class="btn btn-primary">GitHub Link</a>
+<a target="_blank"  href="https://github.com/pateldhruv1993/twitch-analyzer" class="btn btn-primary">GitHub Link</a>
 
 <h1>What is this?</h1>
 A website I made using node.js, express, ejs, Plotly.js, TwitchAPI and couple other smaller framework. The reason for me making this is that I wanted to learn node and express along with messing around with data.
