@@ -16,5 +16,5 @@ A simple game of Pong made using Craftyjs and Javascript. The game as an AI and 
 
 <h1>Screenshots:</h1>
 <img width="100%" src="{{site.baseurl}}/images/pong-with-powerups1.png">
-<br>
+<br><br>
 <img width="100%" src="{{site.baseurl}}/images/pong-with-powerups2.png">
