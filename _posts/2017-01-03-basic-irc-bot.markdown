@@ -5,7 +5,7 @@ title: Basic IRC Bot
 categories: irc bot java
 img: irc-bot.png
 ---
-<a href="https://github.com/pateldhruv1993/IRC-Bot" class="btn btn-primary">GitHub Link</a>
+<a  target="_blank" href="https://github.com/pateldhruv1993/IRC-Bot" class="btn btn-primary">GitHub Link</a>
 
 <h1>What is this?</h1>
 <p>
