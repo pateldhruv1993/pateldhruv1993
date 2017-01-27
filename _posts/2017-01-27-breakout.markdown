@@ -10,9 +10,9 @@ img: pong-with-powerups.png
 
 
 <h1>What is this?</h1>
-A Breakout game made using Craftyjs and Javascript. Objective is to blow up all the bricks. 
+A Breakout game made using Craftyjs and Javascript. Objective is to blow up all the bricks. When you blow up a brick there is a chance it will drop a PowerUp. If you're able to pick up the PowerUp it will be used instantly and show up on top left.
 
-When you blow up a brick there is a chance it will drop a PowerUp. If you're able to pick up the PowerUp it will be used instantly and show up on top left.
+Bricks have different amount of durability. So a Red brick will take 3 hits to blow up where as a Green brick will die as soon as you hit it.
 <br><br>
 <a target="_blank" href="https://pateldhruv1993.github.io/Breakout/" class="btn btn-primary">Play!</a>
 
