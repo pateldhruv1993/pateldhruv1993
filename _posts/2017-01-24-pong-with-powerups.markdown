@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Pong with Power Ups
-categories: 'c# logger'
+categories: 'javascript js crafty game'
 img: pong-with-powerups.png
 ---
 <a target="_blank"  href="https://pateldhruv1993.github.io/pong_game/" class="btn btn-primary">Play!</a>
