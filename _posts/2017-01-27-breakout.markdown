@@ -1,0 +1,20 @@
+---
+published: true
+layout: post
+title: Pong with Power Ups
+categories: 'javascript breakout js crafty game'
+img: pong-with-powerups.png
+---
+<a target="_blank"  href="https://pateldhruv1993.github.io/Breakout" class="btn btn-primary">Play!</a>
+<a  target="_blank" href="https://github.com/pateldhruv1993/Breakout" class="btn btn-primary">GitHub Link</a>
+
+
+<h1>What is this?</h1>
+A Breakout game made using Craftyjs and Javascript. Objective is to blow up all the bricks. When you blow up a brick there is a chance it will drop a PowerUp. If you're able to pick up the PowerUp it will be used instantly and show up on top left.
+<br><br>
+<a target="_blank" href="https://pateldhruv1993.github.io/pong_game/" class="btn btn-primary">Play!</a>
+
+<h1>Screenshots:</h1>
+<img width="100%" src="{{site.baseurl}}/images/pong-with-powerups1.png">
+<br><br>
+<img width="100%" src="{{site.baseurl}}/images/pong-with-powerups2.png">
