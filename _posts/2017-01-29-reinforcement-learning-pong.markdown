@@ -20,7 +20,7 @@ NOTE: As I'm still training the model you won't really be able to see the AI do 
 
 <h1>Screenshots:</h1>
 <ul>
-<li> Look ma, no hands!
+<li> Look ma, no hands! (Hardcoded AI on left and RL agent on right)
 <div style='position:relative;padding-bottom:50%'><iframe src='https://gfycat.com/ifr/PaleIdolizedLadybird' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 </li>
 </ul>
