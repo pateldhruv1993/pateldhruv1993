@@ -10,7 +10,7 @@ img: pong-with-powerups.png
 
 
 <h1>What is this?</h1>
-This is pretty much my CraftyJS Pong game with couple of new lines of code for the machine learning agent. I made this using <a href = "http://cs.stanford.edu/people/karpathy/reinforcejs/index.html">REINFORCEjs</a> by karpathy. I chose to use javascript because I already had a game made in javascript and seemed like making agent that learnes from background information (x and y cordinates of the game entities) would be much easier and faster rather than making it learn through pixels on my slow laptop.
+This is pretty much my CraftyJS Pong game with couple of new lines of code for the machine learning agent. I made this using <a href = "http://cs.stanford.edu/people/karpathy/reinforcejs/index.html">REINFORCEjs</a> by karpathy. I chose to use javascript because I already had a game made in javascript and seemed like making agent that learnes from background information (x and y cordinates of the game entities) would be much easier and faster rather than making it learn from pixels on my slow laptop.
 
 
 NOTE: As I'm still training the model you won't really be able to see the AI do anything amazing. Would probably take a day or two for it to train and then you'll be able to click the "Load Agent" to load a model that is already trained.
