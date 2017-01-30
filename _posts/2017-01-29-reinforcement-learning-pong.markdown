@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Pong Played by Reinforcement Learning Agent
 categories: 'javascript js reinforcejs crafty game'
-img: pong-with-powerups.png
+img: pong-rl.png
 ---
 <a target="_blank"  href="https://pateldhruv1993.github.io/pong_game_RL/" class="btn btn-primary">Play!</a>
 <a  target="_blank" href="https://github.com/pateldhruv1993/pong_game_RL" class="btn btn-primary">GitHub Link</a>
