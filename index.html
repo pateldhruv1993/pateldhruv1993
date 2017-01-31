@@ -17,7 +17,7 @@ published: true
                     <h3 class="panel-title pull-left" style="color: #000;">{{ post.title | truncate: 25 }}</h3><span class="post-meta pull-right"><small>{{ post.date | date: "%b %-d, %Y" }}</small></span>
                   </div>
                   {% if post.img %}
-                  <img width="100%" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
+                  <img width="400px" src="{{site.baseurl}}/images/{{post.img}}" alt="{{post.title}}">
                   {% else %}
                   <img width="100%" src="{{site.baseurl}}/images/console.jpg" alt="{{site.title}}">
                   {% endif %}
