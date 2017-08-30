@@ -1,4 +1,5 @@
 ---
+published: true
 hidden: true
 layout: post
 title: Blubber Privacy Policy
