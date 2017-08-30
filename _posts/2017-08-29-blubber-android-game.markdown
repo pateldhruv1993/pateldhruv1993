@@ -19,15 +19,15 @@ The game is a simple math game where you split the Blubber blobs by tapping on t
 <h1>Images:</h1>
 <ul>
 <li>Main Menu
-<img width="100%" src="{{site.baseurl}}/images/twitch-analyzer-viewer-chart.gif">
+<img width="100%" src="{{site.baseurl}}/images/blubber1.png">
 </li>
 <li>Game
-<img width="100%" src="{{site.baseurl}}/images/twitch-analyzer-chat-chart.gif">
+<img width="100%" src="{{site.baseurl}}/images/blubber2.png">
 </li>
 <li>Game
-<img width="100%" src="{{site.baseurl}}/images/twitch-analyzer-chat-chart.gif">
+<img width="100%" src="{{site.baseurl}}/images/blubber3.png">
 </li>
 <li>Game End Screen
-<img width="100%" src="{{site.baseurl}}/images/twitch-analyzer-chat-chart.gif">
+<img width="100%" src="{{site.baseurl}}/images/blubber4.png">
 </li>
 </ul>
