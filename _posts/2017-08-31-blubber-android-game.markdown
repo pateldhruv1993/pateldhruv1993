@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Blubber - An Android game
 categories: 'C# android unity3d game'
-img: blubber3.png
+img: blubber.png
 ---
 <a target="_blank"  href="https://pateldhruv1993.github.io/pong_game_RL/" class="btn btn-primary">Play!</a>
 
