@@ -5,7 +5,7 @@ title: Blubber - An Android game
 categories: 'C# android unity3d game'
 img: blubber.jpg
 ---
-<a target="_blank"  href="https://pateldhruv1993.github.io/pong_game_RL/" class="btn btn-primary">Play!</a>
+<a target="_blank"  href="https://play.google.com/store/apps/details?id=com.NawPants.Blubber" class="btn btn-primary">Play!</a>
 
 
 <h1>What is this?</h1>
@@ -14,7 +14,7 @@ An Android game I made to learn about making games for Android platform. I used 
 The game is a simple math game where you split the Blubber blobs by tapping on the screen. The HUD shows information as the Target size for Blubber and Current Blubber size. Your objective is to divide blobs till they match the target size.
 
 <br><br>
-<a target="_blank" href="https://pateldhruv1993.github.io/pong_game_RL/" class="btn btn-primary">Play!</a>
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.NawPants.Blubber" class="btn btn-primary">Play!</a>
 
 <h1>Images:</h1>
 <ul>
