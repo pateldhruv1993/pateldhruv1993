@@ -5,7 +5,7 @@ categories: node express ejs TwitchAPI
 img: twitch-analyzer.jpg
 title: Twitch Analyzer
 ---
-<a target="_blank"  href="https://pateldhruv1993.github.io/Breakout" class="btn btn-primary">Demo</a>
+<a target="_blank"  href="https://twitch-analyzer.herokuapp.com/" class="btn btn-primary">Demo</a>
 <a target="_blank"  href="https://github.com/pateldhruv1993/twitch-analyzer" class="btn btn-primary">GitHub Link</a>
 
 <h1>What is this?</h1>
